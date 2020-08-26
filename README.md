@@ -8,7 +8,7 @@ Semi Circle Progress component for React Native which uses only the native Views
 * Fully customizable
 * Animated
 * Lightweight
-
+a
 ## Usage
 ```javascript
 <SemiCircleProgress
